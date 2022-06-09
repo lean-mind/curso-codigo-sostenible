@@ -11,3 +11,8 @@ Listado de ejemplos de código real para trabajar en mob programming, pairing o 
     * Método de partida: OrderResource.java, linea 38, process order - controller.
     * Tiempo estimado de trabajo: 2+ horas
 
+* Refactorizar
+  * Repositorio: https://github.com/lean-mind/savvily-orders-manager/commits/main
+  * Commit: 36cd23d216f455ee6aefee1c284616f8d52ef31c
+  * Método de partida: MailService.java, línea 20, send an order - service.
+  * Tiempo estimado de trabajo: 2+ horas
